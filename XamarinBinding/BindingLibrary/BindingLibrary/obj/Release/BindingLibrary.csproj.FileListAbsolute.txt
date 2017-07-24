@@ -1,0 +1,3 @@
+/Users/nashzhou/Desktop/PayGuardian/XamarinBinding/BindingLibrary/BindingLibrary/bin/Release/BindingLibrary.dll
+/Users/nashzhou/Desktop/PayGuardian/XamarinBinding/BindingLibrary/BindingLibrary/obj/Release/BindingLibrary.csproj.CoreCompileInputs.cache
+/Users/nashzhou/Desktop/PayGuardian/XamarinBinding/BindingLibrary/BindingLibrary/obj/Release/BindingLibrary.dll
